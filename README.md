@@ -2,7 +2,7 @@
 This Python script uses [translators](https://pypi.org/project/translators/) package to translate an Excel file from one language to another. 
 
 ## Usage
-To run the script from the command line type
+To run the script from the command line type:
 
 `python translate_excel.py <filename> <source langauage> <destination language>`
 
