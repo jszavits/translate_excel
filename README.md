@@ -1,5 +1,5 @@
 # translate_excel
-This Python script uses [translators](https://pypi.org/project/translators/) package to translate an Excel file from one language to another. Multisheets are supported.
+This Python script uses [translators](https://pypi.org/project/translators/) package to translate an Excel file from one language to another. The scripts supports multisheets.
 
 ## Usage
 To run the script from the command line type:
